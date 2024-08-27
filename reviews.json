@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "review": "Excellent teacher, clear explanations and very helpful.",
+      "professor": "Dr. John Smith",
+      "subject": "Computer Science",
+      "stars": 4.5
+    },
+    {
+      "review": "Knowledgeable but tough exams. Attend all lectures.",
+      "professor": "Dr. Emily Johnson",
+      "subject": "Biology",
+      "stars": 3.8
+    },
+    {
+      "review": "Passionate and engaging. Be prepared for heavy reading.",
+      "professor": "Prof. Michael Lee",
+      "subject": "History",
+      "stars": 4.2
+    },
+    {
+      "review": "Makes complex concepts easy to understand. Great problem-solving sessions.",
+      "professor": "Dr. Sarah Chen",
+      "subject": "Physics",
+      "stars": 4.7
+    },
+    {
+      "review": "Very knowledgeable but lectures can be dry. Good discussions.",
+      "professor": "Prof. Robert Taylor",
+      "subject": "English Literature",
+      "stars": 3.5
+    },
+    {
+      "review": "Engaging and relatable. Uses great real-world examples.",
+      "professor": "Dr. Lisa Wong",
+      "subject": "Psychology",
+      "stars": 4.8
+    },
+    {
+      "review": "Thorough explanations but fast-paced. Practice regularly.",
+      "professor": "Prof. David Martinez",
+      "subject": "Mathematics",
+      "stars": 3.9
+    },
+    {
+      "review": "Enthusiastic about the subject. Well-organized lab sessions.",
+      "professor": "Dr. Rachel Green",
+      "subject": "Chemistry",
+      "stars": 4.3
+    },
+    {
+      "review": "Encourages critical thinking. Challenging but thought-provoking assignments.",
+      "professor": "Prof. Thomas Brown",
+      "subject": "Philosophy",
+      "stars": 4.0
+    },
+    {
+      "review": "Relates concepts to current events. Fair and well-designed exams.",
+      "professor": "Dr. Jessica Lee",
+      "subject": "Economics",
+      "stars": 4.6
+    },
+    {
+      "review": "Passionate about art. Lectures like guided tours but lots of memorization.",
+      "professor": "Prof. Andrew Wilson",
+      "subject": "Art History",
+      "stars": 4.1
+    },
+    {
+      "review": "Incorporates current research. Great field trips.",
+      "professor": "Dr. Olivia Parker",
+      "subject": "Environmental Science",
+      "stars": 4.4
+    },
+    {
+      "review": "Facilitates great discussions. Challenging but rewarding assignments.",
+      "professor": "Prof. Daniel Kim",
+      "subject": "Sociology",
+      "stars": 4.2
+    },
+    {
+      "review": "At the forefront of the field. Brings cutting-edge research to class.",
+      "professor": "Dr. Emma Thompson",
+      "subject": "Neuroscience",
+      "stars": 4.7
+    },
+    {
+      "review": "Extensive real-world experience but disorganized lectures. Great guest speakers.",
+      "professor": "Prof. James Wilson",
+      "subject": "Political Science",
+      "stars": 3.7
+    },
+    {
+      "review": "Makes complex subject accessible and fun. Helpful in-class exercises.",
+      "professor": "Dr. Sophia Rodriguez",
+      "subject": "Linguistics",
+      "stars": 4.5
+    },
+    {
+      "review": "Extremely knowledgeable but fast-paced. Helpful office hours.",
+      "professor": "Prof. William Chang",
+      "subject": "Engineering",
+      "stars": 3.9
+    },
+    {
+      "review": "Brings anthropology to life with fieldwork stories. Engaging assignments.",
+      "professor": "Dr. Laura Martinez",
+      "subject": "Anthropology",
+      "stars": 4.6
+    },
+    {
+      "review": "Rigorous and creative approach. Challenging but rewarding composition assignments.",
+      "professor": "Prof. Christopher Lee",
+      "subject": "Music",
+      "stars": 4.3
+    },
+    {
+      "review": "Infectious enthusiasm for space exploration. Exciting use of current NASA data.",
+      "professor": "Dr. Natalie White",
+      "subject": "Astronomy",
+      "stars": 4.8
+    }
+  ]
+}
